@@ -19,8 +19,14 @@ O objetivo é demonstrar a aplicação prática de conceitos fundamentais de red
 
 A topologia foi desenhada para representar uma rede corporativa padrão, com uma borda segura conectada à Internet e uma rede interna segmentada.
 
+### Diagrama Protótipo
 <p align="center">
   <img src="./img/DiagramaProjeto.png" alt="Topologia da Rede SecureCorp" width="700">
+</p>
+
+### Desenvolvimento no Cisco Pkt
+<p align="center">
+  <img src="./img/PktImage.png" alt="Imagem do Packet Tracer" width="700">
 </p>
 
 ---
