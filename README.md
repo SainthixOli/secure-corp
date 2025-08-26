@@ -14,10 +14,7 @@ O objetivo é demonstrar a aplicação prática de conceitos fundamentais de red
 
 A topologia foi desenhada para representar uma rede corporativa padrão, com uma borda segura conectada à Internet e uma rede interna segmentada.
 
-> **Instrução:** insira aqui o screenshot do seu diagrama final do Draw.io.  
-> Salve como PNG, adicione ao repositório no GitHub e substitua o caminho abaixo.
->
-> `![Topologia da Rede SecureCorp](/img/DiagramaProjeto.png)`
+[Topologia da Rede SecureCorp](/img/DiagramaProjeto.png)
 
 ---
 
