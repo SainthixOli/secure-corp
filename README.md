@@ -1,4 +1,9 @@
 # Projeto: Simulação de Rede Corporativa Segura
+<p align="center">
+
+  <img src="./img/SecureCorpLogo.png" alt="Topologia da Rede SecureCorp" width="700">
+
+</p>
 
 ## 1. Objetivo
 
@@ -14,7 +19,9 @@ O objetivo é demonstrar a aplicação prática de conceitos fundamentais de red
 
 A topologia foi desenhada para representar uma rede corporativa padrão, com uma borda segura conectada à Internet e uma rede interna segmentada.
 
-[Topologia da Rede SecureCorp](/img/DiagramaProjeto.png)
+<p align="center">
+  <img src="./img/DiagramaProjeto.png" alt="Topologia da Rede SecureCorp" width="700">
+</p>
 
 ---
 
